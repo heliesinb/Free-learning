@@ -1,6 +1,6 @@
 # free_learning
 
-阿松的笔记本，开始支棱起来了<br>
+笔记<br>
 [Android零散复习](Android面试笔记.md)<br>
 [Android事件分发](事件分发.md)<br>
 [Java基础](Java基础知识.md)<br>
